@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     String debug = "MyLog";
 
     TextView out_1, out_2;
-//    TextView out_2 = (TextView) findViewById(R.id.res_2);
 
 
     @Override
@@ -64,8 +63,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         count_2[8] = (EditText)findViewById(R.id.box_2);
         count_2[9] = (EditText)findViewById(R.id.trash_2);
 
-
-//        for (i)
     }
 
 
